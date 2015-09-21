@@ -1,0 +1,25 @@
+{
+  "name": "ktrs",
+  "version": "1.0.1",
+  "description": "time range selector",
+  "main": "KTRS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ak0arjun/KTRS.git"
+  },
+  "dependencies": {
+    "GitRepo": "git+https://github.com/ak0arjun/KTRSSCRIPTS.git"
+  },
+  "keywords": [
+    "KTRS"
+  ],
+  "author": "Arjun Kapoor <arjun.kapoor@guavus.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ak0arjun/KTRS/issues"
+  },
+  "homepage": "https://github.com/ak0arjun/KTRS#readme"
+}
