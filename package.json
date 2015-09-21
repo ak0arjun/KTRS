@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/ak0arjun/KTRS.git"
   },
-  "dependencies": {
-    "GitRepo": "git+https://github.com/ak0arjun/KTRSSCRIPTS.git"
-  },
   "keywords": [
     "KTRS"
   ],
